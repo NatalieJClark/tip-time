@@ -6,7 +6,7 @@
 - It follows the official [Android documentation tutorial](https://developer.android.com/codelabs/basic-android-kotlin-compose-using-state#0)
 
 <p align="center">
-<img width="247" alt="image" src="https://github.com/NatalieJClark/happy-birthday/assets/107806810/dfb6ae66-89d1-4a97-8df2-e3f8fcb93d5d">
+<img width="247" alt="image" src="https://github.com/NatalieJClark/tip-time/assets/107806810/d48ed517-0b76-48e8-b9b6-4151a2f91d85">
 </p>
 
 ## Objectives
