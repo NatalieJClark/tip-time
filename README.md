@@ -1,24 +1,26 @@
-Tip Time - Solution Code
-=================================
+# Tip Time
 
-Starter code for the [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course): Tip Time app.
+## Introduction
+- This project uses Jetpack Compose to build an interactive tip calculator that automatically calculates the tip amount when you enter the service amount. 
+- Building this app was part of my learning in Makers Module 3 - Mobile Applications: Android applications.
+- It follows the official [Android documentation tutorial](https://developer.android.com/codelabs/basic-android-kotlin-compose-using-state#0)
 
+<p align="center">
+<img width="247" alt="image" src="https://github.com/NatalieJClark/happy-birthday/assets/107806810/dfb6ae66-89d1-4a97-8df2-e3f8fcb93d5d">
+</p>
 
-Introduction
-------------
-The Tip Time app contains various UI elements for calculating a tip,
-teaching about user input, and State in Compose.
+## Objectives
+Learn:
+- [x] How to think about state in a UI.
+- [x] How Compose uses state to display data.
+- [x] How to add a text box to your app.
+- [x] How to hoist a state.
 
+## Setup
+Build and refresh preview:
+- `Ctrl + Shift + Cmd + R`
 
-Pre-requisites
---------------
-* Experience with Kotlin syntax.
-* How to create and run a project in Android Studio.
-
-
-Getting Started
----------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
+Or view in an Android Virtual Device (AVD) of your choice:
+- Set up an AVD in `Device Manager`
+- Click ![image](https://github.com/NatalieJClark/greeting-card/assets/107806810/fa7cb2c8-6a77-4307-bb4a-aedeb0b9dbe8) to run the app
+- Type a bill amount in the text field and see the calculated tip amount!
