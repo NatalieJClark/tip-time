@@ -17,6 +17,8 @@ Learn:
 - [x] How to hoist a state.
 
 ## Setup
+Clone this repo and open in Android Studio  
+
 Build and refresh preview:
 - `Ctrl + Shift + Cmd + R`
 
